@@ -15,5 +15,40 @@
 # Google Login
 [![Google](pngwing.com.png)](https://www.google.com/?hl=ko)
 > Firebase와 연동이 쉽기에 구글 계정으로 로그인 기능을 구현함
+---
+## 참조 링크
+- 아이콘 무료 생성: [https://express.adobe.com/sp](https://express.adobe.com/sp)
+
+- 스플래시 참고: [https://developer.android.com/guide/topics/ui/splash-screen?hl=ko#java](https://developer.android.com/guide/topics/ui/splash-screen?hl=ko#java)
+
+- 클릭시 색 변경: [https://youngsblog.tistory.com/entry/Android-클릭했을때-색-변경](https://youngsblog.tistory.com/entry/Android-클릭했을때-색-변경)
+
+- UI 참고:
+  - [https://www.youtube.com/watch?v=kqcvGMgPrnE](https://www.youtube.com/watch?v=kqcvGMgPrnE)
+  - [https://www.youtube.com/watch?v=wIJioa9PohI](https://www.youtube.com/watch?v=wIJioa9PohI)
+
+- 타이틀바, 상태바:
+  - [https://offbyone.tistory.com/428](https://offbyone.tistory.com/428)
+  - [https://jlog1016.tistory.com/14](https://jlog1016.tistory.com/14)
+
+- 액티비티 전환 애니메이션: [https://greedy0110.tistory.com/52](https://greedy0110.tistory.com/52)
+
+- 파이어베이스 API 연동 및 기능:
+  - [https://www.youtube.com/watch?v=HcPWt69d_wY](https://www.youtube.com/watch?v=HcPWt69d_wY)
+  - [https://www.youtube.com/watch?v=xZthfQ9Elx4](https://www.youtube.com/watch?v=xZthfQ9Elx4)
+  - [https://art-coding3.tistory.com/37](https://art-coding3.tistory.com/37)
+  - [https://threeidiotscoding.tistory.com/23](https://threeidiotscoding.tistory.com/23)
+
+- 파이어베이스 에러: [https://ye333.tistory.com/entry/오류해결-Ignoring-header-X-Firebase-Locale-because-its-value-was-null](https://ye333.tistory.com/entry/오류해결-Ignoring-header-X-Firebase-Locale-because-its-value-was-null)
+
+- 구글 로그인 기능: [https://minggu92.tistory.com/77](https://minggu92.tistory.com/77)
+
+- 프래그먼트 관련: [https://www.masterqna.com/android/80567/fragment-에서-activity-로-intent-이동할-때](https://www.masterqna.com/android/80567/fragment-에서-activity-로-intent-이동할-때)
+
+- 구분선 짓기: [https://blog.cracker9.io/2018/03/16/android_line/](https://blog.cracker9.io/2018/03/16/android_line/)
+
+- 번들에 객체 담아서 가져오기:
+  - [https://everyshare
+
 
 
