@@ -1,7 +1,7 @@
 # Major.in 앱 프로젝트
 <br>
 
-<img src="mlogo.png"  width="200" height="200"/>
+<img src="mlogo.png" width="200" height="200"/>
 <br>
 
 ## 프로젝트 소개
@@ -10,7 +10,7 @@
 <br>
 
 ## 사용한 기능
-# Firbase
+* Firbase
 [![Firebase](firebase.png)](https://firebase.google.com/?hl=ko)
 > REALTIME DATABASE를 활용하여 쉽고 간단하게 DB기능을 활용
 > 아이디와 패스워드 등 회원 정보를 입력하여 로그인 기능을 구현 
