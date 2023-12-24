@@ -1,12 +1,15 @@
----
 # Major.in 앱 프로젝트
----
+<br>
+
 ## 나의 앱 로고
-[![majorin](mlogo.png)]{: width="100" height="100"}
-## 프로젝트 설명
+<img src="mlogo.png"  width="200" height="200"/>
+<br>
+
+## 프로젝트 소개
 > 같은 전공 분야를 가진 다양한 사람들이 한 곳에 모여 소통하는 공간.
 > 다양한 정보를 공유, 지식 나누기, 취업 정보 등 유용한 앱으로 발전 가능
----
+<br>
+
 ## 사용한 기능
 # Firbase
 [![Firebase](firebase.png)](https://firebase.google.com/?hl=ko)
@@ -47,17 +50,14 @@
 
 - 구분선 짓기: [https://blog.cracker9.io/2018/03/16/android_line/](https://blog.cracker9.io/2018/03/16/android_line/)
 
-- 번들에 객체 담아서 가져오기:
-  - [https://everyshare
-
-<img width="1185" alt="스크린샷 2023-06-13 오후 12 48 46" src="https://github.com/Sorae1118/MyCc/assets/115053276/8d319b55-e7e9-4f82-980d-0a1e9c7c1d20">
-<img width="1185" alt="스크린샷 2023-06-13 오후 12 48 49" src="https://github.com/Sorae1118/MyCc/assets/115053276/4d0e99a3-876a-4757-ade1-d6a06525eb27">
-<img width="1185" alt="스크린샷 2023-06-13 오후 12 48 54" src="https://github.com/Sorae1118/MyCc/assets/115053276/019ecdde-03dc-4ed8-97ee-3c78fe965b5f">
-<img width="1185" alt="스크린샷 2023-06-13 오후 12 48 57" src="https://github.com/Sorae1118/MyCc/assets/115053276/22215601-a1cf-4e48-b412-06885b82ddb7">
-<img width="1185" alt="스크린샷 2023-06-13 오후 12 48 59" src="https://github.com/Sorae1118/MyCc/assets/115053276/5fc4f239-600b-42ac-acf3-d605c2d56d19">
-<img width="1185" alt="스크린샷 2023-06-13 오후 12 49 02" src="https://github.com/Sorae1118/MyCc/assets/115053276/f1a72204-3a78-45fe-9c04-ac6aa46888f9">
-<img width="1185" alt="스크린샷 2023-06-13 오후 12 49 05" src="https://github.com/Sorae1118/MyCc/assets/115053276/0f25d176-643d-4052-ac80-e0044beb72d2">
-<img width="1185" alt="스크린샷 2023-06-13 오후 12 49 10" src="https://github.com/Sorae1118/MyCc/assets/115053276/8acf6f18-ab71-49d9-bc1f-c04f160bf75f">
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 46" src="https://github.com/Sorae1118/MyCc/assets/115053276/8d319b55-e7e9-4f82-980d-0a1e9c7c1d20">
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 49" src="https://github.com/Sorae1118/MyCc/assets/115053276/4d0e99a3-876a-4757-ade1-d6a06525eb27">
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 54" src="https://github.com/Sorae1118/MyCc/assets/115053276/019ecdde-03dc-4ed8-97ee-3c78fe965b5f">
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 57" src="https://github.com/Sorae1118/MyCc/assets/115053276/22215601-a1cf-4e48-b412-06885b82ddb7">
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 59" src="https://github.com/Sorae1118/MyCc/assets/115053276/5fc4f239-600b-42ac-acf3-d605c2d56d19">
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 49 02" src="https://github.com/Sorae1118/MyCc/assets/115053276/f1a72204-3a78-45fe-9c04-ac6aa46888f9">
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 49 05" src="https://github.com/Sorae1118/MyCc/assets/115053276/0f25d176-643d-4052-ac80-e0044beb72d2">
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 49 10" src="https://github.com/Sorae1118/MyCc/assets/115053276/8acf6f18-ab71-49d9-bc1f-c04f160bf75f">
 
 
 
