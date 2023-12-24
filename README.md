@@ -12,11 +12,13 @@
 ## 사용한 기능
 * Firbase <img src="firebase.png" height="200"/>
 > REALTIME DATABASE를 활용하여 쉽고 간단하게 DB기능을 활용
-> 아이디와 패스워드 등 회원 정보를 입력하여 로그인 기능을 구현 
-# Google Login
-[![Google](pngwing.com.png)](https://www.google.com/?hl=ko)
+> 아이디와 패스워드 등 회원 정보를 입력하여 로그인 기능을 구현
+<br>
+
+* Google Login <img src="pngwing.com.png" height="200"/>
 > Firebase와 연동이 쉽기에 구글 계정으로 로그인 기능을 구현함
----
+<br>
+
 ## 참조 링크
 - 아이콘 무료 생성: [https://express.adobe.com/sp](https://express.adobe.com/sp)
 
@@ -48,14 +50,15 @@
 
 - 구분선 짓기: [https://blog.cracker9.io/2018/03/16/android_line/](https://blog.cracker9.io/2018/03/16/android_line/)
 
-<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 46" src="https://github.com/Sorae1118/MyCc/assets/115053276/8d319b55-e7e9-4f82-980d-0a1e9c7c1d20">
-<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 49" src="https://github.com/Sorae1118/MyCc/assets/115053276/4d0e99a3-876a-4757-ade1-d6a06525eb27">
-<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 54" src="https://github.com/Sorae1118/MyCc/assets/115053276/019ecdde-03dc-4ed8-97ee-3c78fe965b5f">
-<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 57" src="https://github.com/Sorae1118/MyCc/assets/115053276/22215601-a1cf-4e48-b412-06885b82ddb7">
-<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 59" src="https://github.com/Sorae1118/MyCc/assets/115053276/5fc4f239-600b-42ac-acf3-d605c2d56d19">
-<img width="1000" alt="스크린샷 2023-06-13 오후 12 49 02" src="https://github.com/Sorae1118/MyCc/assets/115053276/f1a72204-3a78-45fe-9c04-ac6aa46888f9">
-<img width="1000" alt="스크린샷 2023-06-13 오후 12 49 05" src="https://github.com/Sorae1118/MyCc/assets/115053276/0f25d176-643d-4052-ac80-e0044beb72d2">
-<img width="1000" alt="스크린샷 2023-06-13 오후 12 49 10" src="https://github.com/Sorae1118/MyCc/assets/115053276/8acf6f18-ab71-49d9-bc1f-c04f160bf75f">
+## 발표 자료
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 46" src="https://github.com/Sorae1118/MyCc/assets/115053276/8d319b55-e7e9-4f82-980d-0a1e9c7c1d20"><br>
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 49" src="https://github.com/Sorae1118/MyCc/assets/115053276/4d0e99a3-876a-4757-ade1-d6a06525eb27"><br>
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 54" src="https://github.com/Sorae1118/MyCc/assets/115053276/019ecdde-03dc-4ed8-97ee-3c78fe965b5f"><br>
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 57" src="https://github.com/Sorae1118/MyCc/assets/115053276/22215601-a1cf-4e48-b412-06885b82ddb7"><br>
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 48 59" src="https://github.com/Sorae1118/MyCc/assets/115053276/5fc4f239-600b-42ac-acf3-d605c2d56d19"><br>
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 49 02" src="https://github.com/Sorae1118/MyCc/assets/115053276/f1a72204-3a78-45fe-9c04-ac6aa46888f9"><br>
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 49 05" src="https://github.com/Sorae1118/MyCc/assets/115053276/0f25d176-643d-4052-ac80-e0044beb72d2"><br>
+<img width="1000" alt="스크린샷 2023-06-13 오후 12 49 10" src="https://github.com/Sorae1118/MyCc/assets/115053276/8acf6f18-ab71-49d9-bc1f-c04f160bf75f"><br>
 
 
 
