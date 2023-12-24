@@ -1,7 +1,6 @@
 # Major.in 앱 프로젝트
 <br>
 
-## 나의 앱 로고
 <img src="mlogo.png"  width="200" height="200"/>
 <br>
 
