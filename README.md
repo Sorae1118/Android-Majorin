@@ -49,7 +49,7 @@
 - 프래그먼트 관련: [https://www.masterqna.com/android/80567/fragment-에서-activity-로-intent-이동할-때](https://www.masterqna.com/android/80567/fragment-에서-activity-로-intent-이동할-때)
 
 - 구분선 짓기: [https://blog.cracker9.io/2018/03/16/android_line/](https://blog.cracker9.io/2018/03/16/android_line/)
-
+<br><br>
 ## 발표 자료
 <img width="1000" alt="스크린샷 2023-06-13 오후 12 48 46" src="https://github.com/Sorae1118/MyCc/assets/115053276/8d319b55-e7e9-4f82-980d-0a1e9c7c1d20"><br>
 <img width="1000" alt="스크린샷 2023-06-13 오후 12 48 49" src="https://github.com/Sorae1118/MyCc/assets/115053276/4d0e99a3-876a-4757-ade1-d6a06525eb27"><br>
